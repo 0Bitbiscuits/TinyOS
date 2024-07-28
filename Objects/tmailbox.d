@@ -1,0 +1,13 @@
+.\objects\tmailbox.o: Source\tMailbox.c
+.\objects\tmailbox.o: Source\tinyOS.h
+.\objects\tmailbox.o: D:\APP\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tmailbox.o: Source\tLib.h
+.\objects\tmailbox.o: Source\tConfig.h
+.\objects\tmailbox.o: Source\tEvent.h
+.\objects\tmailbox.o: Source\tTask.h
+.\objects\tmailbox.o: Source\tSem.h
+.\objects\tmailbox.o: Source\tMailbox.h
+.\objects\tmailbox.o: Source\tMemBlock.h
+.\objects\tmailbox.o: Source\tFlagGroup.h
+.\objects\tmailbox.o: Source\tMutex.h
+.\objects\tmailbox.o: Source\tTimer.h
